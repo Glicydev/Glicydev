@@ -1,7 +1,7 @@
 # Hello World !
 > ### I’m @Glicydev. I'm in second year of informatic school CFPT-I <sup>(It's in geneva !)</sup>
 > - 👀 I’m interested in <ins>Programmation</ins> and football
-> - 🌱 I’m currently learning Frameworkd like **react** and **vue**
+> - 🌱 I’m currently learning Frameworks like **react** and **vue**
 > - 💞️ I’m looking to collaborate on ***web programmation*** or ***applications***, ***frontend*** and ***backend***
 > - 📫 You can contact me on my email: Ludovic2008@outlook.com
 > - 😄 Pronouns: He/They
