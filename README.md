@@ -25,7 +25,7 @@
 ## 📫 Reach Me
 
 - ✉️ Email: [Ludovic2008@outlook.com](mailto:Ludovic2008@outlook.com)
-- 🌐 Portfolio / Contact: [andromed.ludosphere.ch](https://andromed.ludosphere.ch)
+- 🌐 Portfolio: [andromed.ludosphere.ch](https://andromed.ludosphere.ch)
 
 ## 🧩 Fun Fact
 
